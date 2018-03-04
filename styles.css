@@ -1,0 +1,55 @@
+/* add your CSS here */
+
+img {
+	width: 300px;
+	height: 300px;
+	 display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+ #fact{
+    font-style: italic;
+}
+
+span {
+	font-weight: bold;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+div {
+	border-style: solid;
+	border-color:#cccccc;
+	border-width: 1px 1px 1px 1px;
+	padding: 10px 10px 10px 10px;
+}
+
+div.body {
+
+	margin-top: 100px;
+	margin-bottom: 100px;
+	margin-right: 150px;
+	margin-left: 80px;
+	box-shadow: 10px 10px 5px #c7c3c3;
+}
+
+h3 {
+	font-size: 60px;
+	margin-left: 5px;
+}
+
+.buttom{
+
+	padding: 70px 20px 70px 20px;
+	margin-top: 30px;
+	margin-bottom: 5px;
+	margin-right: 5px;
+	margin-left: 5px;
+
+}
